@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**Raihansome12/Raihansome12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi There! Kenalan Yuk 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nama  : Raihan Ahmad Fauzan
+Asal  : Banjarnegara, Jawa Tengah
+
+- 🔭 I’m currently studying at STMKG Program Studi D-IV Instrumentasi
+- 🌱 I’m currently learning Cara make Git Hub
+- 👯 I’m looking to collaborate on Hal Kebaikan
+- 🤔 I’m looking for help with Siapapun yang baik hati
+- 💬 Ask me about anything
+- 📫 How to reach me: [wa.me//+6281226426129]
+- 😄 Pronouns: Mas/Rehan
+- ⚡ Fun fact: Punya ayam dan kucing barbar
