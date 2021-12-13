@@ -1,7 +1,5 @@
 ### Hi There! Kenalan Yuk 👋
 
-Here are some ideas to get you started:
-
 Nama  : Raihan Ahmad Fauzan
 Asal  : Banjarnegara, Jawa Tengah
 
