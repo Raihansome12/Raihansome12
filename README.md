@@ -8,6 +8,6 @@
 - 👯 I’m looking to collaborate on Hal Kebaikan
 - 🤔 I’m looking for help with Siapapun yang baik hati
 - 💬 Ask me about anything
-- 📫 How to reach me: wa.me//+6281226426129
+- 📫 How to reach me: <a>wa.me//+6281226426129</a>
 - 😄 Pronouns: Mas/Rehan
 - ⚡ Fun fact: Punya ayam dan kucing barbar
