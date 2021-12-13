@@ -1,7 +1,6 @@
 ### Hi There! Kenalan Yuk 👋
 
 Nama  : Raihan Ahmad Fauzan
-
 Asal  : Banjarnegara, Jawa Tengah
 
 - 🔭 I’m currently studying at STMKG Program Studi D-IV Instrumentasi
