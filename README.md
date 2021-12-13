@@ -1,7 +1,6 @@
 ### Hi There! Kenalan Yuk 👋
 
-<p>Nama  : Raihan Ahmad Fauzan</p>
-<p>Asal  : Banjarnegara, Jawa Tengah</p>
+<p>Nama  : Raihan Ahmad Fauzan<br>Asal  : Banjarnegara, Jawa Tengah</p>
 
 <hr>
 
